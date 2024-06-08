@@ -20,7 +20,7 @@ export default [
       "no-unused-expressions": "error",
       "no-undef": "error",
       "prefer-const": ["error", { ignoreReadBeforeAssign: true }],
-      "no-console": "warn",
+      "no-console": "",
     },
   },
 
